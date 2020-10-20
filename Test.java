@@ -14,6 +14,7 @@ public class Test {
         n1 = teclado.nextInt();
 
         System.out.print( "Introduzca segundo número: " );
+        System.out.print( "Introduzca primer número: " );
         n2 = teclado.nextInt();
 
         suma = n1 + n2;

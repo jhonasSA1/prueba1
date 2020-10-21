@@ -16,7 +16,7 @@ public class Test {
         System.out.print( "Introduzca segundo número: " );
         System.out.print( "Introduzca primer número: " );
         n2 = teclado.nextInt();
-        System.out.print( "jhonas suarez " );
+        System.out.print( "jhonas suarez abastooooooooo" );
 
         suma = n1 + n2;
 
